@@ -1,6 +1,6 @@
 {
   "name": "@repo-api4com/am-npm-pkg-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A project for testing NPM package publishing",
   "main": "index.js",
   "scripts": {
