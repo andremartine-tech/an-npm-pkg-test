@@ -1,7 +1,7 @@
 Como usar?
 
 ```shell
-npm i am-npm-pkg-test
+npm i @repo-api4com/am-npm-pkg-test
 ```
 
 ```js
