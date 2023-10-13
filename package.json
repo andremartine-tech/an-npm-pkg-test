@@ -1,0 +1,20 @@
+{
+  "name": "am-npm-pkg-test",
+  "version": "1.0.0",
+  "description": "A project for testing NPM package publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andremartine-tech/an-npm-pkg-test.git"
+  },
+  "keywords": [],
+  "author": "André Martine Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andremartine-tech/an-npm-pkg-test/issues"
+  },
+  "homepage": "https://github.com/andremartine-tech/an-npm-pkg-test#readme"
+}
